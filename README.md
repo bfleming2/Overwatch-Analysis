@@ -1,4 +1,4 @@
-# OverwatchAnalysis
+# Overwatch Analysis
 
 Analyze professional Overwatch data to quantify the efficiency of hero compositions for each map.
 
